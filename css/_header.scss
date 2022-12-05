@@ -1,0 +1,20 @@
+.header {
+    background: linear-gradient(96.18deg, #006B9E -2.14%, #0D75BE 48.69%, #095BA3 101.22%);
+margin-top: 10px;
+padding-top: 15px;
+padding-bottom: 15px;
+border-bottom: 1px white solid;
+}
+
+.header__telephone {
+	margin-left: auto;
+}
+.header__menu {
+    width: 85%;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.header-menu__nav a{
+    padding-left: 5px;
+}
